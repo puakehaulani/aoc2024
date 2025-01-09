@@ -1,0 +1,4 @@
+# Ignore files that include the words 'data' or 'output'
+*data*
+*output*
+*.js
