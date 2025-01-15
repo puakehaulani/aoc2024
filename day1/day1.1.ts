@@ -1,3 +1,4 @@
+// https://adventofcode.com/2024/day/1
 import { column1, column2 } from './day1.1.output'
 
 const findDistace = (arr1, arr2) => {
